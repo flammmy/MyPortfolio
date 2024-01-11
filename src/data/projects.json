@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Real-time Chat application",
+    "imageSrc": "projects/project.png",
+    "description": "A real time chat app in which users can chat with each other in real time.",
+    "skills": ["React", "Express", "Node","MongoDB","Socket.IO"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tiffin Delivery System",
+    "imageSrc": "projects/project.png",
+    "description": "A tiffin delivery model aimed at serving convenient and reliable tiffin services and",
+    "skills": ["HTML", "CSS", "JavasScript", "PHP","MySql"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Youtube Clone",
+    "imageSrc": "projects/project.png",
+    "description": "A youtube clone for learning and showcasing proficiency in technology like Reactjs,redux etc",
+    "skills": ["Reactjs", "ReduxToolkit", "Nodejs","Tailwind css","TypeScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
